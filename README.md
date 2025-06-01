@@ -15,7 +15,8 @@
 
 <!-- Animated Coding GIF: Replace the link below with your uploaded GIF path -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated Coding" width="250"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazIzdHBzMTR2ODhkd2VoNjVrcmw2cTBjdzR6dDNmaHF2anloaWFjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" alt="Animated Coding" width="250"/>
+  
 </p>
 
 ---
