@@ -96,8 +96,10 @@
 
 <p align="center">
   <!-- Use the raw.githubusercontent.com link for SVG display -->
+    <img src="https://github.com/shaurya1606/shaurya1606/blob/output/github-snake-dark.svg" alt="git hub snake contribution" />
+  
+  ![snake gif]()
 </p>
-  ![snake gif](https://github.com/shaurya1606/shaurya1606/blob/output/github-snake-dark.svg)
 
 ---
 
