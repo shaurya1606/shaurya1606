@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <span style="font-size:2.2rem;">👋 Hi, I'm <span style="color:#36BCF7;">Shaurya</span></span><br/>
+  👋 Hi, I'm <span style="color:#36BCF7;">Shaurya</span><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Full-stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
@@ -13,9 +13,9 @@
   <img src="https://profile-counter.glitch.me/shauryasrivastava-1612/count.svg" alt="Visitor's Count" />
 </p>
 
-<!-- Animated Illustration -->
+<!-- Animated Coding GIF: Replace the link below with your uploaded GIF path -->
 <p align="center">
-  <img src="https://lottie.host/25f6e5c2-0e5f-4b1a-9e0e-32e0f2d2d8d6/I9hXl6vF9I.json" alt="Animated Coding" width="250"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated Coding" width="250"/>
 </p>
 
 ---
@@ -54,6 +54,7 @@
 ## ✨ Featured Projects
 
 <p align="center">
+  <!-- You can add your own project GIF here in the assets folder -->
   <img src="https://github.com/shaurya1606/shaurya1606/assets/984049870/project-showcase.gif" alt="Project Showcase" width="400"/>
   <br/>
   <b>Stay tuned for more awesome projects!</b>
@@ -94,7 +95,8 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/shaurya1606/shaurya1606/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <!-- Use the raw.githubusercontent.com link for SVG display -->
+  <img src="https://raw.githubusercontent.com/shaurya1606/shaurya1606/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
