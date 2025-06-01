@@ -1,4 +1,3 @@
-````markdown name=README.md
 <!-- Profile README for shaurya1606 -->
 
 <p align="center">
@@ -116,4 +115,3 @@
 - Consider using GitHub Readme Widgets for latest blog posts, quotes, or achievements.
 - Add shields for certifications or communities.
 -->
-````
