@@ -98,7 +98,7 @@
 
 <p align="center">
   <!-- Use the raw.githubusercontent.com link for SVG display -->
-  <img src="https://raw.githubusercontent.com/shaurya1606/shaurya1606/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="about:blank" alt="GitHub Contribution Snake" />
 </p>
 
 ---
