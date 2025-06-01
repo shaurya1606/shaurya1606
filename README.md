@@ -1,41 +1,68 @@
+````markdown name=README.md
 <!-- Profile README for shaurya1606 -->
 
 <p align="center">
-  <img src="https://github.com/shauryasrivastava-1612/shauryasrivastava-1612/blob/main/cartoon-man-wearing-glasses_23-2151136784.webp" alt="Banner of a CS Enthusiast" width="300"/>
+  <img src="https://github.com/shauryasrivastava-1612/shauryasrivastava-1612/blob/main/cartoon-man-wearing-glasses_23-2151136784.webp" alt="Banner of a CS Enthusiast" width="320"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Shaurya</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full-stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <span style="font-size:2.2rem;">👋 Hi, I'm <span style="color:#36BCF7;">Shaurya</span></span><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Full-stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/shauryasrivastava-1612/count.svg" alt="Visitor's Count" />
+</p>
+
+<!-- Animated Illustration -->
+<p align="center">
+  <img src="https://lottie.host/25f6e5c2-0e5f-4b1a-9e0e-32e0f2d2d8d6/I9hXl6vF9I.json" alt="Animated Coding" width="250"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on exciting **AI, web, and mobile projects**
-- 🌱 Always learning new technologies and frameworks
+<div align="center">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="175" height="175" alt="Coder GIF" />
+</div>
+
+- 🧑‍💻 Full-stack Dev | AI/ML Explorer | Open Source Advocate
+- 🔭 Currently building exciting **AI, web, and mobile projects**
+- 🌱 Always upskilling in state-of-the-art tech & frameworks
 - 💬 Ask me about **Python, React, Next.js, AI/ML, and more**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shaurya1606/) or [Email](mailto:shaurya1606@gmail.com)
-- 💡 Passionate about building products that make a difference
+- 📫 [LinkedIn](https://www.linkedin.com/in/shaurya1606/) • [Email](mailto:shaurya1606@gmail.com)
+- 💡 Passionate about <b style="color:#ffb703;">creative solutions</b> that make a difference
 
 ---
 
-## 🛠️ Languages & Tools
+## 🧑‍💻 Tech Stack & Tools
+
+<p align="center" style="margin-bottom:10px;">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,tailwind,java,git,github,vscode,figma" alt="Languages and Tools" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,tailwind,java,git,github,vscode,figma"
-       alt="Languages and Tools"/>
+  <img src="https://img.shields.io/badge/-AI%2FML-7A1FA2?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Web%20Apps-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Mobile%20Apps-00C7B7?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>
+  <img src="https://img.shields.io/badge/-Open%20Source-24292F?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## ✨ Featured Projects
+
+<p align="center">
+  <img src="https://github.com/shaurya1606/shaurya1606/assets/984049870/project-showcase.gif" alt="Project Showcase" width="400"/>
+  <br/>
+  <b>Stay tuned for more awesome projects!</b>
+</p>
+
+---
+
+## 📈 GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaurya1606&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
@@ -46,7 +73,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌍 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaurya1606/" target="_blank">
@@ -54,6 +81,12 @@
   </a>
   <a href="mailto:shaurya1606@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/shaurya_1606" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://shaurya1606.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -70,10 +103,17 @@
 <details>
   <summary>📌 <b>More about me</b></summary>
   <ul>
-    <li>⚡ Fun Fact: I love blending technology and creativity to solve real-world problems!</li>
+    <li>⚡ <b>Fun Fact:</b> I blend technology and creativity to solve real-world problems!</li>
     <li>🧠 Always up for a challenge and open to collaboration!</li>
     <li>🎨 In my free time, I enjoy digital art, music, and chess.</li>
+    <li>🔗 I love connecting with fellow devs and creators—let's build something awesome!</li>
   </ul>
 </details>
 
-<!-- Feel free to customize this README further! -->
+<!--
+✨ Customization ideas:
+- Add animated illustrations from LottieFiles (use a GIF fallback if Lottie doesn't render).
+- Consider using GitHub Readme Widgets for latest blog posts, quotes, or achievements.
+- Add shields for certifications or communities.
+-->
+````
