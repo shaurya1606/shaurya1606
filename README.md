@@ -96,8 +96,8 @@
 
 <p align="center">
   <!-- Use the raw.githubusercontent.com link for SVG display -->
-  ![snake gif](https://github.com/shaurya1606/shaurya1606/blob/output/github-snake-dark.svg)
 </p>
+  ![snake gif](https://github.com/shaurya1606/shaurya1606/blob/output/github-snake-dark.svg)
 
 ---
 
