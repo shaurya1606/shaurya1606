@@ -130,7 +130,29 @@
   <a href="https://shaurya1606.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://github.com/shaurya1606?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/shaurya1612" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/shaurya0616" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/shaurya1606/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/shaurya1606/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
+
+- [LinkedIn](https://www.linkedin.com/in/shaurya1606/)
+- [CodeChef](https://www.codechef.com/users/shaurya1612)
+- [Codeforces](https://codeforces.com/profile/shaurya0616)
+- [LeetCode](https://leetcode.com/u/shaurya1606/)
+- [GitHub](https://github.com/shaurya1606?tab=repositories)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/shaurya1606/)
 
 ---
 
