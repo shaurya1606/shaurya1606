@@ -9,15 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Full-stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/shauryasrivastava-1612/count.svg" alt="Visitor's Count" />
-</p>
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dseDFtZWdxZ2phMTJqaG5lanN1dW5odjhkeHVsaXJveWtuYXFxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="Animated Coding" width="250"/>
-</p>
-
----
 
 ## 🚀 About Me
 
