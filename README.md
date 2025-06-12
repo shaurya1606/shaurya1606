@@ -13,7 +13,6 @@
   <img src="https://profile-counter.glitch.me/shauryasrivastava-1612/count.svg" alt="Visitor's Count" />
 </p>
 
-<!-- Animated Coding GIF: Replace the link below with your uploaded GIF path -->
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dseDFtZWdxZ2phMTJqaG5lanN1dW5odjhkeHVsaXJveWtuYXFxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="Animated Coding" width="250"/>
 </p>
@@ -26,39 +25,91 @@
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="175" height="175" alt="Coder GIF" />
 </div>
 
-- 🧑‍💻 Full-stack Dev | AI/ML Explorer | Open Source Advocate
-- 🔭 Currently building exciting **AI, web, and mobile projects**
-- 🌱 Always upskilling in state-of-the-art tech & frameworks
-- 💬 Ask me about **Python, React, Next.js, AI/ML, and more**
+- 🧑‍💻 Full-stack Developer | AI/ML Explorer | Cyber Security Enthusiast | Open Source Advocate
+- 🎓 B.Tech in Computer Science (Cyber Security), PSIT Kanpur | CGPA: 8.5/10 (2nd Sem)
+- 🏆 Hackathon Winner (SIH, Tech Expo), HackIITK Semi-Finalist
+- 🔭 Building AI, Web, Mobile, & IoT projects | Systematic DSA Problem Solver (250+ solved)
+- 🌱 Always upskilling in latest frameworks, cloud, and system design
+- 💬 Ask me about **Python, C++, React, Next.js, AI/ML, IoT, System Design**
 - 📫 [LinkedIn](https://www.linkedin.com/in/shaurya1606/) • [Email](mailto:shaurya1606@gmail.com)
 - 💡 Passionate about <b style="color:#ffb703;">creative solutions</b> that make a difference
+- 🎯 Career Goal: Becoming a world-class SWE at Google, Meta, HRT, Citadel, etc., aiming for ₹1Cr+ roles
 
 ---
 
-## 🧑‍💻 Tech Stack & Tools
+## 🛠️ Core Technical Skills
 
-<p align="center" style="margin-bottom:10px;">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,tailwind,java,git,github,vscode,figma" alt="Languages and Tools" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-AI%2FML-7A1FA2?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Web%20Apps-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Mobile%20Apps-00C7B7?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>
-  <img src="https://img.shields.io/badge/-Open%20Source-24292F?style=for-the-badge&logo=github"/>
-</p>
+- **Languages:** C++, Python, JavaScript, Java, SQL
+- **Web:** React.js, Node.js, Express.js, MongoDB, HTML, CSS
+- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, OpenCV, Flask
+- **IoT/Embedded:** ESP32, Raspberry Pi
+- **Tools:** Git, GitHub, Linux, Postman, Jira, Figma, Notion
+- **CS Fundamentals:** DSA, Algorithms, OOP, System Design, Microservices, Distributed Systems, Cloud Computing, Agile/Scrum
 
 ---
 
-## ✨ Featured Projects
+## 🏅 Certifications & Achievements
+
+- 🥇 1st Position — Smart India Hackathon (Internal) 2025
+- 🥈 Semi-Finalist — HackIIT Kanpur Cyber Security Hackathon 2025
+- 🏆 Winner — Tech Expo PSIT 2024 (Fire Detection System)
+- 🥉 Amazon Coding Interview Prep (CodeChef 2025), JavaScript Algorithms & Data Structures (freeCodeCamp 2025)
+- 🎓 Python Programming Fundamentals, CSS3/HTML5/Bootstrap (Infosys Springboard)
+- 🛰️ Geocomputation & Geo-web Services (ISRO)
+- 🏅 Figma Basic Workshop Host (PSIT Kanpur)
+
+---
+
+## 💼 Experience & Leadership
+
+- Technical Staff — Disha Club, PSIT Kanpur
+- Graphic Designer — Vyomnauts Club, PSIT Kanpur
+- Class Representative — PSIT Kanpur (2023–24)
+- Project/Workshop Host & Open Source Contributor
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **SAARTHI — Smart IoT Vending Machine** | React Native, Node.js, MongoDB, ESP32 | QR-based product dispensing for women's hygiene |
+| **AI-Powered Fire Detection System** | TensorFlow, CNN, OpenCV | 96% accurate, real-time fire alarms for smart buildings |
+| **AI Phishing Detection (HackIITK)** | Python, PyTorch, NLP, Flask | 92% accurate, REST API, enterprise-ready |
+| **Sargam — Music Streaming Web App** | HTML, CSS, JS | Responsive, interactive music platform, live on GitHub |
+| **NIDAR — Disaster Relief Drone System** | Edge AI, Drones | Scouting & aid delivery, hackathon showcased |
 
 <p align="center">
-  <!-- You can add your own project GIF here in the assets folder -->
   <img src="https://github.com/shaurya1606/shaurya1606/assets/984049870/project-showcase.gif" alt="Project Showcase" width="400"/>
   <br/>
-  <b>Stay tuned for more awesome projects!</b>
+  <b>See more in my pinned repos!</b>
 </p>
+
+---
+
+## 💻 Coding Profiles
+
+- **CodeChef:** 1123 (1★), 120+ problems, 7 contests, Bronze badges (Code Enthusiast, Contest Contender, Problem Solver)
+- **Codeforces:** 425 (Newbie), 29 problems, Max streak: 11 days
+- **LeetCode:** 1354, 83+ problems (C++), Top skills: DP, Trie, Greedy, Max streak: 12 days
+- **GeeksforGeeks:** 26 problems, Rank 1149, Coding Score: 92, POTD streak: 11 days
+- **GitHub:** 15+ repos — Full Stack, AI/ML, IoT, Automation. Projects: SAARTHI, Sargam, Pong Game, Stock Forecasting, Phishing Detection, NIDAR Drone
+
+---
+
+## 👥 Recent Professional Networking
+
+- Connected with Ravi Teja Vadlamani (Salesforce QA) for AMTS Internship referral (CV requested ✔️)
+
+---
+
+## 📌 Strengths
+
+- Systematic DSA problem-solver (250+ problems)
+- End-to-End Product Developer (IoT + AI/ML + Web + Embedded)
+- Excellent project showcasing (Tech Expo, Hackathons)
+- Open Source and GitHub Contributor
+- Strong Communication (workshops, Figma design mentor)
 
 ---
 
@@ -95,7 +146,6 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <!-- Use the raw.githubusercontent.com link for SVG display -->
     <img src="https://github.com/shaurya1606/shaurya1606/blob/output/github-snake-dark.svg" alt="git hub snake contribution" />
 </p>
 
