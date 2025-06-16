@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/shauryasrivastava-1612/shauryasrivastava-1612/blob/main/cartoon-man-wearing-glasses_23-2151136784.webp" alt="Banner of a CS Enthusiast" width="320"/>
 </p>
-
+ 
 <h1 align="center">
   👋 Hi, I'm <span style="color:#36BCF7;">Shaurya</span><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Full-stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
