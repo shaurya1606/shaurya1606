@@ -1,5 +1,5 @@
 <!-- Profile README for shaurya1606 -->
-
+ 
 <p align="center">
   <img src="https://github.com/shauryasrivastava-1612/shauryasrivastava-1612/blob/main/cartoon-man-wearing-glasses_23-2151136784.webp" alt="Banner of a CS Enthusiast" width="320"/>
 </p>
@@ -15,7 +15,7 @@
 <div align="center">
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="175" height="175" alt="Coder GIF" />
 </div>
-
+ 
 - 🧑‍💻 Full-stack Developer | AI/ML Explorer | Cyber Security Enthusiast | Open Source Advocate
 - 🎓 B.Tech in Computer Science (Cyber Security), PSIT Kanpur | CGPA: 8.5/10 (2nd Sem)
 - 🏆 Hackathon Winner (SIH, Tech Expo), HackIITK Semi-Finalist
