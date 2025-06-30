@@ -1,5 +1,5 @@
 <!-- Profile README for shaurya1606 -->
- 
+  
 <p align="center">
   <img src="https://github.com/shauryasrivastava-1612/shauryasrivastava-1612/blob/main/cartoon-man-wearing-glasses_23-2151136784.webp" alt="Banner of a CS Enthusiast" width="320"/>
 </p>
