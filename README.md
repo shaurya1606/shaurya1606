@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shaurya Srivastava</h1>
 
-<p align="center">
+<p align="center"> 
   Backend Engineer • AI/ML Developer • Competitive Programmer
 </p>
 
