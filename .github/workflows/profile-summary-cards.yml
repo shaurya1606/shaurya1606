@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - main
+      - refactoring-profile
 
   schedule:
 
@@ -33,6 +34,6 @@ jobs:
 
         with:
           USERNAME: shaurya1606
-          BRANCH_NAME: main
+          BRANCH_NAME: ${{ github.ref_name }}
           UTC_OFFSET: 5.5
           THEME: github_dark
