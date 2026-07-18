@@ -464,7 +464,7 @@ Java • OOP • Collections
 
 <div align="center">
 
-<img width="100%" src="profile-summary-card-output/github-dark/profile-details.svg"/>
+<img width="100%" src="profile-summary-card-output/github_dark/profile-details.svg"/>
 
 </div>
 
@@ -472,9 +472,9 @@ Java • OOP • Collections
 
 <div align="center">
 
-<img width="49%" src="profile-summary-card-output/default/repos-per-language.svg"/>
+<img width="49%" src="profile-summary-card-output/github_dark/repos-per-language.svg"/>
 
-<img width="49%" src="profile-summary-card-output/default/most-commit-language.svg"/>
+<img width="49%" src="profile-summary-card-output/github_dark/most-commit-language.svg"/>
 
 </div>
 
@@ -482,9 +482,9 @@ Java • OOP • Collections
 
 <div align="center">
 
-<img width="49%" src="profile-summary-card-output/default/stats.svg"/>
+<img width="49%" src="profile-summary-card-output/github_dark/stats.svg"/>
 
-<img width="49%" src="profile-summary-card-output/default/productive-time.svg"/>
+<img width="49%" src="profile-summary-card-output/github_dark/productive-time.svg"/>
 
 </div>
 
