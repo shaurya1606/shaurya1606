@@ -454,7 +454,7 @@ Java • OOP • Collections
 
 <div align="center">
 
-<img width="95%" src="https://streak-stats.demolab.com?user=shaurya1606&theme=github-dark-blue&hide_border=true"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=shaurya1606&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -484,7 +484,7 @@ Java • OOP • Collections
 
 <div align="center">
 
-<img width="100%" src="./github-metrics.svg" alt="GitHub Metrics"/>
+<img width="80%" src="./github-metrics.svg" alt="GitHub Metrics"/>
 
 </div>
 
@@ -571,7 +571,7 @@ In 2026, I'm focusing on:
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shaurya1606/shaurya1606/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img width="95%" src="https://raw.githubusercontent.com/shaurya1606/shaurya1606/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
 ---
