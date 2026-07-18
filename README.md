@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero/hero-banner.png" width="100%" alt="Shaurya Srivastava"/>
+<img src="hero-banner.png" width="100%" alt="Shaurya Srivastava"/>
 
 # Shaurya Srivastava
 

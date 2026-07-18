@@ -37,16 +37,10 @@ jobs:
 
           plugin_isocalendar: yes
 
-
           plugin_followup: yes
 
           plugin_lines: yes
 
-
-          plugin_topics: yes
-
           plugin_repositories: yes
-
-          plugin_stars: yes
 
           filename: github-metrics.svg
