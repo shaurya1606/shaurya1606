@@ -3,12 +3,6 @@ name: GitHub Profile Summary Cards
 
 on:
 
-  push:
-    branches:
-      - main
-      - refactoring-profile
-    paths-ignore:
-      - "profile-summary-card-output/**"
 
   schedule:
 
