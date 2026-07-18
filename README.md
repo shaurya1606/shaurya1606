@@ -460,6 +460,37 @@ Java • OOP • Collections
 
 ---
 
+# 📈 GitHub Summary
+
+<div align="center">
+
+<img width="100%" src="profile-summary-card-output/default/profile-details.svg"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="profile-summary-card-output/default/repos-per-language.svg"/>
+
+<img width="49%" src="profile-summary-card-output/default/most-commit-language.svg"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="profile-summary-card-output/default/stats.svg"/>
+
+<img width="49%" src="profile-summary-card-output/default/productive-time.svg"/>
+
+</div>
+
+---
+
+
 # 📈 Contribution Activity
 
 <div align="center">
