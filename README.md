@@ -577,7 +577,38 @@ In 2026, I'm focusing on:
 </p>
 
 ---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://shaurya.letskraack.dev">🌐 Portfolio</a> •
+<a href="https://linkedin.com/in/shaurya1606">LinkedIn</a> •
+<a href="mailto:shaurya0616@gmail.com">Email</a> •
+<a href="https://leetcode.com/u/shaurya1606">LeetCode</a> •
+<a href="https://codeforces.com/profile/shaurya0616">Codeforces</a>
+
+</p>
+
+---
+
 <div align="center">
+
+# 🗺️ Engineering Roadmap
+
+```text
+2024  ─────────► Web Development
+2025  ─────────► Backend Engineering
+2025  ─────────► Enterprise SaaS
+2026  ─────────► AI Systems
+2026  ─────────► Distributed Systems
+2026+ ─────────► Platform Engineering & Open Source
+```
+
+### "Build systems that scale. Write code that lasts."
+
+⭐ If you like my work, consider following my journey.
+
 
 ### Thanks for visiting!
 
