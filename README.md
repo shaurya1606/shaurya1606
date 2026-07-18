@@ -493,27 +493,29 @@ Java • OOP • Collections
 ---
 
 
-# 🏆 Competitive Programming
+# 💻 Competitive Programming
 
 <div align="center">
 
-| Platform | Profile |
-|----------|---------|
-| 🟠 **LeetCode** | [shaurya1606](https://leetcode.com/u/shaurya1606) |
-| 🔵 **Codeforces** | [shaurya0616](https://codeforces.com/profile/shaurya0616) |
-| 🟤 **CodeChef** | Add Profile |
-| 🟢 **GeeksforGeeks** | Add Profile |
-| 🟣 **HackerRank** | Add Profile |
+<img src="https://leetcard.jacoblin.cool/shaurya1606?theme=dark&font=Ubuntu&ext=contest" width="49%" />
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=shaurya0616&theme=github_dark" width="49%" />
 
 </div>
 
-### Highlights
+<br>
 
-- Solved **300+** Data Structures & Algorithms problems.
-- **Codeforces Specialist** (Peak Rating: **1546**).
-- **LeetCode Contest Rating ~1570**.
-- Regular participant in programming contests and coding competitions.
-- Strong foundation in Graphs, Trees, Dynamic Programming, Greedy Algorithms, Binary Search, Sliding Window, and advanced data structures.
+<div align="center">
+
+| Platform | Highlights |
+|-----------|------------|
+| 🟠 LeetCode | 300+ Problems Solved • Contest Rating ~1570 |
+| 🔵 Codeforces | Specialist • Peak Rating 1546 |
+| 🟢 HackerRank | Problem Solving • SQL |
+| 🟤 CodeChef | Regular Practice |
+| ⚪ GeeksforGeeks | DSA Practice |
+
+</div>
 
 ---
 
