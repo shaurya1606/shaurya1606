@@ -1,98 +1,67 @@
-<h1 align="center">Hi, I'm Shaurya Srivastava</h1>
+<div align="center">
 
-<p align="center"> 
-  Backend Engineer • AI/ML Developer • Competitive Programmer
+<img src="assets/hero/hero-banner.png" width="100%" alt="Shaurya Srivastava"/>
+
+# Shaurya Srivastava
+
+### Engineering scalable systems where backend, distributed computing, and AI converge.
+
+<p>
+Computer Science Undergraduate • Backend Engineer • AI Systems Builder • Open Source Enthusiast
 </p>
+
+</div>
+
+---
+
+## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaurya1606/">LinkedIn</a> •
-  <a href="mailto:shaurya0616@gmail.com">Email</a> •
-  <a href="https://shauray.letskraack.dev">Portfolio</a> •
-  <a href="https://github.com/shaurya1606">GitHub</a>
+
+<a href="https://shaurya.letskraack.dev">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/shaurya1606">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/shaurya1606">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/shaurya1606">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/shaurya0616">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-##  About
+# About Me
 
-- B.Tech CSE (Cybersecurity), PSIT Kanpur — CGPA: 7.64  
-- Backend-focused engineer building **scalable systems + AI-powered applications**  
-- Strong in **DSA, system design, and production-level APIs**  
-- Codeforces Specialist (1546) | 300+ DSA problems solved  
-- SIH Winner | TechExpo Winner (2024, 2025)  
+I'm **Shaurya Srivastava**, a Computer Science undergraduate passionate about designing scalable software systems that solve practical engineering problems.
 
----
+My work primarily revolves around backend engineering, distributed systems, developer tooling, artificial intelligence, and modern cloud-native architectures.
 
-##  Tech Stack
-
-**Languages:** C++, Python, JavaScript, SQL  
-**Backend:** Node.js, Express, FastAPI  
-**Frontend:** React, Next.js, TypeScript  
-**Databases:** PostgreSQL, MongoDB, Redis  
-**AI/ML:** PyTorch, Scikit-learn, OpenCV, NLP  
-**Tools:** Docker, AWS, CI/CD, Git, Linux  
+I enjoy transforming ideas into production-inspired software by combining clean architecture, efficient algorithms, scalable APIs, and thoughtful system design.
 
 ---
 
-##  Projects
+## Engineering Domains
 
-### SARION — Disaster Response Drone System
-- Built real-time detection + navigation using YOLO + A*  
-- Achieved **44.7% mAP@50 at 20 FPS**  
-- Reduced telemetry bandwidth by **30%**
-
-### LetsKraack — AI Coaching Platform
-- Designed NLP-based evaluation pipeline  
-- Reduced response generation time by **40%**  
-- Maintained **~700ms latency**
-
-### AuthCore — RBAC Authentication System
-- Designed scalable **role-based access control system**  
-- Implemented **JWT + OAuth + TOTP 2FA**  
-- Built optimized relational schema (6+ tables)
+- Backend Engineering
+- Distributed Systems
+- Artificial Intelligence
+- System Design
+- Cloud Computing
+- API Design
+- Developer Tooling
+- Full Stack Development
+- Open Source
 
 ---
-
-##  Achievements
-
--  Smart India Hackathon Winner (2024)  
--  YUKTI Innovation Challenge Finalist (2025)  
--  TechExpo Winner (2024, 2025)  
--  Codeforces Specialist (Top ~5%)  
-
----
-
-##  Competitive Programming
-
-- Codeforces: 1546 (Specialist)  
-- LeetCode: 300+ problems  
-- CodeChef: 120+ problems  
-- GFG: Rank 1149  
-
----
-
-##  GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shaurya1606&theme=radical&hide_border=true"/>
-</p>
-
----
-
-##  Contact
-
-- Email: shaurya0616@gmail.com  
-- LinkedIn: linkedin.com/in/shaurya1606  
-- Portfolio: shaurya.letskraack.dev  
-
----
-## Summary 
-
-- Interested in backend systems, distributed architecture, and ML deployment  
-- Enjoy competitive programming and solving complex system design problems  
-- Open to internships, SWE roles, and collaboration  
-
-## Contribution Snake
-<p align="center">
-    <img src="https://github.com/shaurya1606/shaurya1606/blob/output/github-snake-dark.svg" alt="GitHub Snake Contribution" />
-</p>
