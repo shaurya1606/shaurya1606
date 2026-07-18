@@ -1,0 +1,25 @@
+name: Update Recent GitHub Activity
+
+on:
+  schedule:
+    # Every day at 08:30 AM IST (03:00 UTC)
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update recent activity
+        uses: Readme-Workflows/recent-activity@v2
+        with:
+          MAX_LINES: 8
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
