@@ -578,22 +578,6 @@ In 2026, I'm focusing on:
 
 ---
 
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://shaurya.letskraack.dev">🌐 Portfolio</a> •
-<a href="https://linkedin.com/in/shaurya1606">LinkedIn</a> •
-<a href="mailto:shaurya0616@gmail.com">Email</a> •
-<a href="https://leetcode.com/u/shaurya1606">LeetCode</a> •
-<a href="https://codeforces.com/profile/shaurya0616">Codeforces</a>
-
-</p>
-
----
-
-<div align="center">
-
 # 🗺️ Engineering Roadmap
 
 ```text
