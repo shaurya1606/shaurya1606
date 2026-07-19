@@ -1,15 +1,10 @@
 name: Update Recent GitHub Activity
 
 on:
-
-  push:
-    branches:
-      - main
-      - refactoring-profile
-
   schedule:
-    # Every day at 08:30 AM IST (03:00 UTC)
+    # Every day at 08:30 AM IST
     - cron: "0 3 * * *"
+
   workflow_dispatch:
 
 permissions:
@@ -25,6 +20,5 @@ jobs:
 
       - name: Update recent activity
         uses: Readme-Workflows/recent-activity@v2.4.1
-        
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
