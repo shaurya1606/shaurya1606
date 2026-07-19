@@ -1,6 +1,12 @@
 name: Update Recent GitHub Activity
 
 on:
+
+  push:
+    branches:
+      - main
+      - refactoring-profile
+      
   schedule:
     # Every day at 08:30 AM IST (03:00 UTC)
     - cron: "0 3 * * *"
