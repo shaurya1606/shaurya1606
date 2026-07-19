@@ -2,6 +2,10 @@
 
 <img src="hero-banner.png" width="100%" alt="Shaurya Srivastava"/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Engineer;Distributed+Systems+Enthusiast;AI+Systems+Builder;Java+%7C+Spring+Boot+%7C+Node.js;Building+Scalable+Software" />
+</p>
+
 # Shaurya Srivastava
 
 ### Engineering scalable systems where backend, distributed computing, and AI converge.
@@ -38,6 +42,12 @@ Computer Science Undergraduate • Backend Engineer • AI Systems Builder • O
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
 </a>
 
+
+  <img src="https://komarev.com/ghpvc/?username=shaurya1606&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/shaurya1606?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/shaurya1606?affiliations=OWNER&style=for-the-badge" />
+
+
 </p>
 
 ---
@@ -69,6 +79,7 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 # 💻 Technology Stack
 
 <p align="center">
+
 
 ### Languages
 
@@ -614,15 +625,20 @@ In 2026, I'm focusing on:
 
 ---
 
-# 🗺️ Engineering Roadmap
+# 🗺️ Engineering Journey
 
 ```text
-2024  ─────────► Web Development
-2025  ─────────► Backend Engineering
-2025  ─────────► Enterprise SaaS
-2026  ─────────► AI Systems
-2026  ─────────► Distributed Systems
-2026+ ─────────► Platform Engineering & Open Source
+2024 ─ Web Development
+       │
+2025 ─ Backend Engineering
+       │
+2025 ─ Enterprise SaaS
+       │
+2026 ─ AI Systems
+       │
+2026 ─ Distributed Systems
+       │
+2027 → Platform Engineering
 ```
 
 ### "Build systems that scale. Write code that lasts."
