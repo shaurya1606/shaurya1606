@@ -559,13 +559,6 @@ Java • OOP • Collections
 
 ---
 
-# ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 # 🎯 Engineering Highlights
 
 - 🏆 Winner — **PSIT Tech Expo 2024** (Fire & Smoke Detection System)
