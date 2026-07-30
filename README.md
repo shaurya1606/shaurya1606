@@ -455,13 +455,7 @@ Java • OOP • Collections
 
 # 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaurya1606&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya1606&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-</div>
 
 <div align="center">
 
@@ -540,6 +534,10 @@ Java • OOP • Collections
 <img src="https://leetcard.jacoblin.cool/shaurya1606?theme=dark&font=Ubuntu&ext=contest" width="49%" />
 
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=shaurya0616&theme=github_dark" width="49%" />
+
+<a href="https://www.codechef.com/users/shaurya1612">
+    <img src="https://img.shields.io/badge/CodeChef-shaurya1612-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
 </div>
 
