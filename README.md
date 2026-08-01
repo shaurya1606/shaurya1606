@@ -50,17 +50,24 @@ Computer Science Undergraduate • Backend Engineer • AI Systems Builder • O
 
 ## About Me
 
+<table>
+<tr>
+<td width="35%" valign="middle" align="center">
+
+<img src="lanyard.svg" width="340" alt="Developer Badge" />
+
+</td>
+<td width="65%" valign="middle">
+
 I'm **Shaurya Srivastava**, a Computer Science undergraduate passionate about designing scalable software systems that solve practical engineering problems.
 
 My work primarily revolves around backend engineering, distributed systems, developer tooling, artificial intelligence, and modern cloud-native architectures.
 
 I enjoy transforming ideas into production-inspired software by combining clean architecture, efficient algorithms, scalable APIs, and thoughtful system design.
 
-<div align="center">
-
-<img src="lanyard.svg" width="360" alt="Developer Badge" />
-
-</div>
+</td>
+</tr>
+</table>
 
 ## Engineering Domains
 
@@ -76,68 +83,78 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 
 ## 💻 Technology Stack
 
-<p align="center">
-
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
 
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,kotlin,bash,html,css&perline=9" />
 
-</p>
-
-<p align="center">
+</td>
+<td width="50%" valign="top" align="center">
 
 ### Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi&perline=5" />
 
-</p>
-
-<p align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
 ### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui&perline=6" />
 
-</p>
-
-<p align="center">
+</td>
+<td width="50%" valign="top" align="center">
 
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase&perline=6" />
 
-</p>
-
-<p align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
 ### AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=4" />
 
-</p>
-
-<p align="center">
+</td>
+<td width="50%" valign="top" align="center">
 
 ### Cloud • DevOps
 
 <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux,nginx&perline=5" />
 
-</p>
-
-<p align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
 ### Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,androidstudio,postman,figma&perline=8" />
 
-</p>
+</td>
+<td width="50%" valign="top" align="center">
+
+### Frameworks & Runtime
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,fastapi,nextjs,react&perline=6" />
+
+</td>
+</tr>
+</table>
 
 ## ⚙️ Engineering Expertise
 
-<table>
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### Backend Engineering
 
@@ -152,8 +169,7 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 - Distributed Systems
 
 </td>
-
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### Software Engineering
 
@@ -168,12 +184,7 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 - Agile Development
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### Artificial Intelligence
 
@@ -188,8 +199,9 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 - YOLO
 
 </td>
-
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="33.33%" valign="top">
 
 ### Cloud & Infrastructure
 
@@ -204,16 +216,52 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 - Reverse Proxy
 
 </td>
+<td width="33.33%" valign="top">
+
+### Developer Practices
+
+- Git Workflow
+- Code Reviews
+- Technical Documentation
+- Problem Solving
+- Debugging
+- API Testing
+- Postman
+- Database Optimization
+- Secure Coding
+- Agile Collaboration
+
+</td>
+<td width="33.33%" valign="top">
+
+### Core Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- Database Management Systems
+- Computer Networks
+- SQL Optimization
+- Complexity Analysis
+- Multithreading
+- Memory Management
+- Problem Solving
+
+</td>
 </tr>
 </table>
 
 ## 🚀 Featured Projects
 
-<table>
+<table border="1" cellspacing="0" cellpadding="14" width="100%">
 
 <tr>
 
 <td width="50%" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td valign="top">
 
 ## QueueCTL
 
@@ -232,8 +280,16 @@ TypeScript • Node.js • SQLite • CLI • Worker Architecture
 [Repository](https://github.com/shaurya1606/flam-software-intern-project)
 
 </td>
+</tr>
+</table>
+
+</td>
 
 <td width="50%" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td valign="top">
 
 ## LetsKraack
 
@@ -252,12 +308,20 @@ Next.js • TypeScript • PostgreSQL • AssemblyAI • Gemini • AWS Polly
 [Repository](https://github.com/shaurya1606/LetsKraack.Ai)
 
 </td>
+</tr>
+</table>
+
+</td>
 
 </tr>
 
 <tr>
 
 <td width="50%" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td valign="top">
 
 ## PerformIQ
 
@@ -276,8 +340,16 @@ Next.js • TypeScript • PostgreSQL • RBAC • Authentication
 [Repository](https://github.com/shaurya1606/PerformIQ)
 
 </td>
+</tr>
+</table>
+
+</td>
 
 <td width="50%" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td valign="top">
 
 ## Sarion
 
@@ -298,12 +370,20 @@ Python • YOLO • FastAPI • OpenCV
 [Repository](https://github.com/shaurya1606/Sarion)
 
 </td>
+</tr>
+</table>
+
+</td>
 
 </tr>
 
 <tr>
 
 <td width="50%" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td valign="top">
 
 ## Society Management System
 
@@ -322,8 +402,16 @@ TypeScript • React • Node.js • Database
 [Repository](https://github.com/shaurya1606/society-management)
 
 </td>
+</tr>
+</table>
+
+</td>
 
 <td width="50%" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td valign="top">
 
 ## AI-Powered Phishing Detection
 
@@ -342,12 +430,20 @@ Python • Scikit-Learn • NLP • Machine Learning
 [Repository](https://github.com/shaurya1606/AI-Powered-Phishing-detection-and-Mitigation)
 
 </td>
+</tr>
+</table>
+
+</td>
 
 </tr>
 
 <tr>
 
 <td width="50%" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td valign="top">
 
 ## Fire & Smoke Detection
 
@@ -366,8 +462,16 @@ Python • OpenCV • CNN • PyTorch
 [Repository](https://github.com/shaurya1606/Advance-fire-and-smoke-detection-system)
 
 </td>
+</tr>
+</table>
+
+</td>
 
 <td width="50%" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td valign="top">
 
 ## Human Detection with YOLOv8
 
@@ -384,12 +488,20 @@ Python • YOLOv8 • OpenCV
 [Repository](https://github.com/shaurya1606/Human-Detection-System-with-YOLOv8)
 
 </td>
+</tr>
+</table>
+
+</td>
 
 </tr>
 
 <tr>
 
 <td width="50%" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td valign="top">
 
 ## Saarthi
 
@@ -408,8 +520,16 @@ React Native • TypeScript • Python
 [Repository](https://github.com/shaurya1606/Saarthi-React-Native-App)
 
 </td>
+</tr>
+</table>
+
+</td>
 
 <td width="50%" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td valign="top">
 
 ## UPI Java
 
@@ -428,6 +548,10 @@ Java • OOP • Collections
 [Repository](https://github.com/shaurya1606/UPI-Java)
 
 </td>
+</tr>
+</table>
+
+</td>
 
 </tr>
 
@@ -435,14 +559,32 @@ Java • OOP • Collections
 
 ## 📦 Other Notable Projects
 
-- 🍔 **Food Fiesta** — Restaurant management application built in Java.
-- 📱 **Sticker Smasher** — React Native mobile application exploring modern mobile UI development.
-- 📄 **Resume Analyser AI (Java)** — AI-assisted resume evaluation and parsing.
-- 🎵 **Interactive Music Web App** — Browser-based music streaming application.
-- 📈 **Stock Market Forecast** — Time-series forecasting and visualization using Python.
-- 💬 **Mystery Message** — Anonymous messaging platform.
-- 🎯 **Authentication & Authorization** — Production-inspired authentication system with secure user workflows.
-- 🕹️ Collection of frontend experiments including Pong, Tic-Tac-Toe, Snake Game, Product Table, and other learning projects.
+<p>
+  <a href="#" style="display:inline-block; margin:4px 6px 4px 0; padding:8px 12px; border:1px solid #2f81f7; border-radius:999px; text-decoration:none; color:#e6edf3; background:#0d1117; font-size:13px; line-height:1.4;">
+    🍔 <strong>Food Fiesta</strong> — Restaurant management application built in Java.
+  </a>
+  <a href="#" style="display:inline-block; margin:4px 6px 4px 0; padding:8px 12px; border:1px solid #2f81f7; border-radius:999px; text-decoration:none; color:#e6edf3; background:#0d1117; font-size:13px; line-height:1.4;">
+    📱 <strong>Sticker Smasher</strong> — React Native mobile application exploring modern mobile UI development.
+  </a>
+  <a href="#" style="display:inline-block; margin:4px 6px 4px 0; padding:8px 12px; border:1px solid #2f81f7; border-radius:999px; text-decoration:none; color:#e6edf3; background:#0d1117; font-size:13px; line-height:1.4;">
+    📄 <strong>Resume Analyser AI (Java)</strong> — AI-assisted resume evaluation and parsing.
+  </a>
+  <a href="#" style="display:inline-block; margin:4px 6px 4px 0; padding:8px 12px; border:1px solid #2f81f7; border-radius:999px; text-decoration:none; color:#e6edf3; background:#0d1117; font-size:13px; line-height:1.4;">
+    🎵 <strong>Interactive Music Web App</strong> — Browser-based music streaming application.
+  </a>
+  <a href="#" style="display:inline-block; margin:4px 6px 4px 0; padding:8px 12px; border:1px solid #2f81f7; border-radius:999px; text-decoration:none; color:#e6edf3; background:#0d1117; font-size:13px; line-height:1.4;">
+    📈 <strong>Stock Market Forecast</strong> — Time-series forecasting and visualization using Python.
+  </a>
+  <a href="#" style="display:inline-block; margin:4px 6px 4px 0; padding:8px 12px; border:1px solid #2f81f7; border-radius:999px; text-decoration:none; color:#e6edf3; background:#0d1117; font-size:13px; line-height:1.4;">
+    💬 <strong>Mystery Message</strong> — Anonymous messaging platform.
+  </a>
+  <a href="#" style="display:inline-block; margin:4px 6px 4px 0; padding:8px 12px; border:1px solid #2f81f7; border-radius:999px; text-decoration:none; color:#e6edf3; background:#0d1117; font-size:13px; line-height:1.4;">
+    🎯 <strong>Authentication &amp; Authorization</strong> — Production-inspired authentication system with secure user workflows.
+  </a>
+  <a href="#" style="display:inline-block; margin:4px 6px 4px 0; padding:8px 12px; border:1px solid #2f81f7; border-radius:999px; text-decoration:none; color:#e6edf3; background:#0d1117; font-size:13px; line-height:1.4;">
+    🕹️ <strong>Collection of frontend experiments</strong> including Pong, Tic-Tac-Toe, Snake Game, Product Table, and other learning projects.
+  </a>
+</p>
 
 ## 📊 GitHub Analytics
 
