@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero-banner.png" width="100%" alt="Shaurya Srivastava"/>
+<img src="banner-dark.svg" width="100%" alt="Shaurya Srivastava"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Engineer;Distributed+Systems+Enthusiast;AI+Systems+Builder;Java+%7C+Spring+Boot+%7C+Node.js;Building+Scalable+Software" />
@@ -15,8 +15,6 @@ Computer Science Undergraduate • Backend Engineer • AI Systems Builder • O
 </p>
 
 </div>
-
----
 
 ## Connect with Me
 
@@ -50,9 +48,7 @@ Computer Science Undergraduate • Backend Engineer • AI Systems Builder • O
 
 </p>
 
----
-
-# About Me
+## About Me
 
 I'm **Shaurya Srivastava**, a Computer Science undergraduate passionate about designing scalable software systems that solve practical engineering problems.
 
@@ -60,7 +56,11 @@ My work primarily revolves around backend engineering, distributed systems, deve
 
 I enjoy transforming ideas into production-inspired software by combining clean architecture, efficient algorithms, scalable APIs, and thoughtful system design.
 
----
+<div align="center">
+
+<img src="lanyard.svg" width="360" alt="Developer Badge" />
+
+</div>
 
 ## Engineering Domains
 
@@ -74,9 +74,7 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 - Full Stack Development
 - Open Source
 
----
-
-# 💻 Technology Stack
+## 💻 Technology Stack
 
 <p align="center">
 
@@ -135,9 +133,7 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 
 </p>
 
----
-
-# ⚙️ Engineering Expertise
+## ⚙️ Engineering Expertise
 
 <table>
 <tr>
@@ -211,8 +207,7 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 </tr>
 </table>
 
----
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 
@@ -438,9 +433,7 @@ Java • OOP • Collections
 
 </table>
 
----
-
-# 📦 Other Notable Projects
+## 📦 Other Notable Projects
 
 - 🍔 **Food Fiesta** — Restaurant management application built in Java.
 - 📱 **Sticker Smasher** — React Native mobile application exploring modern mobile UI development.
@@ -451,9 +444,7 @@ Java • OOP • Collections
 - 🎯 **Authentication & Authorization** — Production-inspired authentication system with secure user workflows.
 - 🕹️ Collection of frontend experiments including Pong, Tic-Tac-Toe, Snake Game, Product Table, and other learning projects.
 
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 
 
@@ -463,9 +454,7 @@ Java • OOP • Collections
 
 </div>
 
----
-
-# 📈 GitHub Summary
+## 📈 GitHub Summary
 
 <div align="center">
 
@@ -493,8 +482,7 @@ Java • OOP • Collections
 
 </div>
 
----
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -502,9 +490,9 @@ Java • OOP • Collections
 
 </div>
 
-<!-- ---
+<!--
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -512,9 +500,9 @@ Java • OOP • Collections
 
 </p>
 
---- -->
+--> 
 
-# 📊 Development Metrics
+## 📊 Development Metrics
 
 <div align="center">
 
@@ -522,12 +510,7 @@ Java • OOP • Collections
 
 </div>
 
----
-
----
-
-
-# 💻 Competitive Programming
+## 💻 Competitive Programming
 
 <div align="center">
 
@@ -555,9 +538,7 @@ Java • OOP • Collections
 
 </div>
 
----
-
-# 🎯 Engineering Highlights
+## 🎯 Engineering Highlights
 
 - 🏆 Winner — **PSIT Tech Expo 2024** (Fire & Smoke Detection System)
 - 🏆 Winner — **PSIT Tech Expo 2025** (LetsKraack AI Platform)
@@ -568,9 +549,7 @@ Java • OOP • Collections
 - ☁️ Built cloud-ready applications using Docker, GitHub Actions, AWS, and PostgreSQL.
 - 🛰️ Worked on distributed systems, asynchronous processing, and workflow orchestration.
 
----
-
-# 🌱 Currently Exploring
+## 🌱 Currently Exploring
 
 ```text
 ✓ Distributed Systems
@@ -592,9 +571,7 @@ Java • OOP • Collections
 ✓ High Performance Backend Systems
 ```
 
----
-
-# 🤝 Open Source Goals
+## 🤝 Open Source Goals
 
 In 2026, I'm focusing on:
 
@@ -604,19 +581,13 @@ In 2026, I'm focusing on:
 - Publishing reusable libraries and engineering utilities.
 - Collaborating on distributed systems and AI infrastructure projects.
 
----
-
-
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img width="95%" src="https://raw.githubusercontent.com/shaurya1606/shaurya1606/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
----
-
-# 🗺️ Engineering Journey
+## 🗺️ Engineering Journey
 
 ```text
 2024 ─ Web Development
