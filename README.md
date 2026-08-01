@@ -253,7 +253,7 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 
 ## 🚀 Featured Projects
 
-<table border="1" cellspacing="0" cellpadding="14" width="100%">
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
 
 <tr>
 
@@ -269,53 +269,29 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 
 A production-inspired distributed task processing system featuring worker orchestration, retries, scheduling, dead-letter queues, monitoring, and asynchronous execution.
 
-**Domain**
+---
+
+🏷️ Domain
 
 `Distributed Systems` • `Developer Tools`
 
-**Tech**
+---
+
+⚙️ Tech Stack
 
 TypeScript • Node.js • SQLite • CLI • Worker Architecture
 
-[Repository](https://github.com/shaurya1606/flam-software-intern-project)
+---
+
+🔗 Repository
+
+[View Repository](https://github.com/shaurya1606/flam-software-intern-project)
 
 </td>
 </tr>
 </table>
 
 </td>
-
-<td width="50%" valign="top">
-
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-<tr>
-<td valign="top">
-
-## LetsKraack
-
-**AI Career Preparation Platform**
-
-AI-powered interview preparation platform integrating Speech-to-Text, LLM evaluation, resume analysis, personalized learning, and real-time interview workflows.
-
-**Domain**
-
-`Artificial Intelligence` • `EdTech`
-
-**Tech**
-
-Next.js • TypeScript • PostgreSQL • AssemblyAI • Gemini • AWS Polly
-
-[Repository](https://github.com/shaurya1606/LetsKraack.Ai)
-
-</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -329,15 +305,63 @@ Next.js • TypeScript • PostgreSQL • AssemblyAI • Gemini • AWS Polly
 
 Enterprise SaaS platform implementing RBAC, approval workflows, KPI governance, multi-role dashboards, and secure authentication.
 
-**Domain**
+---
+
+🏷️ Domain
 
 `Enterprise SaaS`
 
-**Tech**
+---
+
+⚙️ Tech Stack
 
 Next.js • TypeScript • PostgreSQL • RBAC • Authentication
 
-[Repository](https://github.com/shaurya1606/PerformIQ)
+---
+
+🔗 Repository
+
+[View Repository](https://github.com/shaurya1606/PerformIQ)
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td valign="top">
+
+## LetsKraack
+
+**AI Career Preparation Platform**
+
+AI-powered interview preparation platform integrating Speech-to-Text, LLM evaluation, resume analysis, personalized learning, and real-time interview workflows.
+
+---
+
+🏷️ Domain
+
+`Artificial Intelligence` • `EdTech`
+
+---
+
+⚙️ Tech Stack
+
+Next.js • TypeScript • PostgreSQL • AssemblyAI • Gemini • AWS Polly
+
+---
+
+🔗 Repository
+
+[View Repository](https://github.com/shaurya1606/LetsKraack.Ai)
 
 </td>
 </tr>
@@ -357,17 +381,23 @@ Next.js • TypeScript • PostgreSQL • RBAC • Authentication
 
 Computer vision powered disaster response simulation integrating AI detection, telemetry, path planning, and emergency coordination.
 
-**Domain**
+---
 
-`Artificial Intelligence`
+🏷️ Domain
 
-`Computer Vision`
+`Artificial Intelligence` • `Computer Vision`
 
-**Tech**
+---
+
+⚙️ Tech Stack
 
 Python • YOLO • FastAPI • OpenCV
 
-[Repository](https://github.com/shaurya1606/Sarion)
+---
+
+🔗 Repository
+
+[View Repository](https://github.com/shaurya1606/Sarion)
 
 </td>
 </tr>
@@ -378,152 +408,6 @@ Python • YOLO • FastAPI • OpenCV
 </tr>
 
 <tr>
-
-<td width="50%" valign="top">
-
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-<tr>
-<td valign="top">
-
-## Society Management System
-
-Multi-role society administration platform with authentication, resident management, complaints, maintenance, announcements, and dashboard analytics.
-
-**Domain**
-
-`Full Stack`
-
-`MERN`
-
-**Tech**
-
-TypeScript • React • Node.js • Database
-
-[Repository](https://github.com/shaurya1606/society-management)
-
-</td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%" valign="top">
-
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-<tr>
-<td valign="top">
-
-## AI-Powered Phishing Detection
-
-Machine learning driven phishing detection system capable of analysing URLs, emails, and webpages for malicious behaviour.
-
-**Domain**
-
-`Cyber Security`
-
-`Machine Learning`
-
-**Tech**
-
-Python • Scikit-Learn • NLP • Machine Learning
-
-[Repository](https://github.com/shaurya1606/AI-Powered-Phishing-detection-and-Mitigation)
-
-</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-<tr>
-<td valign="top">
-
-## Fire & Smoke Detection
-
-Real-time fire and smoke detection using deep learning and computer vision with emergency alert capabilities.
-
-**Domain**
-
-`Computer Vision`
-
-`Deep Learning`
-
-**Tech**
-
-Python • OpenCV • CNN • PyTorch
-
-[Repository](https://github.com/shaurya1606/Advance-fire-and-smoke-detection-system)
-
-</td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%" valign="top">
-
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-<tr>
-<td valign="top">
-
-## Human Detection with YOLOv8
-
-Real-time human detection system supporting multiple camera feeds, object tracking, and automated alerts.
-
-**Domain**
-
-`Computer Vision`
-
-**Tech**
-
-Python • YOLOv8 • OpenCV
-
-[Repository](https://github.com/shaurya1606/Human-Detection-System-with-YOLOv8)
-
-</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-<tr>
-<td valign="top">
-
-## Saarthi
-
-Smart healthcare vending solution combining React Native, backend APIs, payment workflows, and inventory management.
-
-**Domain**
-
-`Mobile Development`
-
-`Healthcare`
-
-**Tech**
-
-React Native • TypeScript • Python
-
-[Repository](https://github.com/shaurya1606/Saarthi-React-Native-App)
-
-</td>
-</tr>
-</table>
-
-</td>
 
 <td width="50%" valign="top">
 
@@ -533,19 +417,215 @@ React Native • TypeScript • Python
 
 ## UPI Java
 
+**Java implementation of core UPI concepts**
+
 Java implementation of core UPI concepts demonstrating transaction workflows, account management, and payment processing.
 
-**Domain**
+---
 
-`Java`
+🏷️ Domain
 
-`Backend`
+`Java` • `Backend`
 
-**Tech**
+---
+
+⚙️ Tech Stack
 
 Java • OOP • Collections
 
-[Repository](https://github.com/shaurya1606/UPI-Java)
+---
+
+🔗 Repository
+
+[View Repository](https://github.com/shaurya1606/UPI-Java)
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td valign="top">
+
+## Food Fiesta
+
+**Restaurant management application built in Java**
+
+Restaurant management application built in Java.
+
+---
+
+🏷️ Domain
+
+`Java` • `Backend`
+
+---
+
+⚙️ Tech Stack
+
+Java • Backend • Restaurant Management
+
+---
+
+🔗 Repository
+
+View Repository
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td valign="top">
+
+## Authentication & Authorization
+
+**Production-inspired authentication system with secure user workflows**
+
+Production-inspired authentication system with secure user workflows.
+
+---
+
+🏷️ Domain
+
+`Backend` • `Security`
+
+---
+
+⚙️ Tech Stack
+
+TypeScript • React • Node.js • Database
+
+---
+
+🔗 Repository
+
+View Repository
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td valign="top">
+
+## Society Management System
+
+**Multi-role society administration platform**
+
+Multi-role society administration platform with authentication, resident management, complaints, maintenance, announcements, and dashboard analytics.
+
+---
+
+🏷️ Domain
+
+`Full Stack` • `MERN`
+
+---
+
+⚙️ Tech Stack
+
+TypeScript • React • Node.js • Database
+
+---
+
+🔗 Repository
+
+[View Repository](https://github.com/shaurya1606/society-management)
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td valign="top">
+
+## AI-Powered Phishing Detection
+
+**Machine learning driven phishing detection system**
+
+Machine learning driven phishing detection system capable of analysing URLs, emails, and webpages for malicious behaviour.
+
+---
+
+🏷️ Domain
+
+`Cyber Security` • `Machine Learning`
+
+---
+
+⚙️ Tech Stack
+
+Python • Scikit-Learn • NLP • Machine Learning
+
+---
+
+🔗 Repository
+
+[View Repository](https://github.com/shaurya1606/AI-Powered-Phishing-detection-and-Mitigation)
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" valign="top">
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td valign="top">
+
+## DSA Problems Solution
+
+**Problem solving through data structures and algorithms**
+
+Problem solving practice through data structures and algorithms.
+
+---
+
+🏷️ Domain
+
+`Data Structures` • `Algorithms`
+
+---
+
+⚙️ Tech Stack
+
+Python • C++ • Java • Problem Solving
+
+---
+
+🔗 Repository
+
+View Repository
 
 </td>
 </tr>
@@ -559,32 +639,47 @@ Java • OOP • Collections
 
 ## 📦 Other Notable Projects
 
-<p>
-  <a href="#" style="display:inline-block; margin:4px 6px 4px 0; padding:8px 12px; border:1px solid #2f81f7; border-radius:999px; text-decoration:none; color:#e6edf3; background:#0d1117; font-size:13px; line-height:1.4;">
-    🍔 <strong>Food Fiesta</strong> — Restaurant management application built in Java.
-  </a>
-  <a href="#" style="display:inline-block; margin:4px 6px 4px 0; padding:8px 12px; border:1px solid #2f81f7; border-radius:999px; text-decoration:none; color:#e6edf3; background:#0d1117; font-size:13px; line-height:1.4;">
-    📱 <strong>Sticker Smasher</strong> — React Native mobile application exploring modern mobile UI development.
-  </a>
-  <a href="#" style="display:inline-block; margin:4px 6px 4px 0; padding:8px 12px; border:1px solid #2f81f7; border-radius:999px; text-decoration:none; color:#e6edf3; background:#0d1117; font-size:13px; line-height:1.4;">
-    📄 <strong>Resume Analyser AI (Java)</strong> — AI-assisted resume evaluation and parsing.
-  </a>
-  <a href="#" style="display:inline-block; margin:4px 6px 4px 0; padding:8px 12px; border:1px solid #2f81f7; border-radius:999px; text-decoration:none; color:#e6edf3; background:#0d1117; font-size:13px; line-height:1.4;">
-    🎵 <strong>Interactive Music Web App</strong> — Browser-based music streaming application.
-  </a>
-  <a href="#" style="display:inline-block; margin:4px 6px 4px 0; padding:8px 12px; border:1px solid #2f81f7; border-radius:999px; text-decoration:none; color:#e6edf3; background:#0d1117; font-size:13px; line-height:1.4;">
-    📈 <strong>Stock Market Forecast</strong> — Time-series forecasting and visualization using Python.
-  </a>
-  <a href="#" style="display:inline-block; margin:4px 6px 4px 0; padding:8px 12px; border:1px solid #2f81f7; border-radius:999px; text-decoration:none; color:#e6edf3; background:#0d1117; font-size:13px; line-height:1.4;">
-    💬 <strong>Mystery Message</strong> — Anonymous messaging platform.
-  </a>
-  <a href="#" style="display:inline-block; margin:4px 6px 4px 0; padding:8px 12px; border:1px solid #2f81f7; border-radius:999px; text-decoration:none; color:#e6edf3; background:#0d1117; font-size:13px; line-height:1.4;">
-    🎯 <strong>Authentication &amp; Authorization</strong> — Production-inspired authentication system with secure user workflows.
-  </a>
-  <a href="#" style="display:inline-block; margin:4px 6px 4px 0; padding:8px 12px; border:1px solid #2f81f7; border-radius:999px; text-decoration:none; color:#e6edf3; background:#0d1117; font-size:13px; line-height:1.4;">
-    🕹️ <strong>Collection of frontend experiments</strong> including Pong, Tic-Tac-Toe, Snake Game, Product Table, and other learning projects.
-  </a>
-</p>
+<div>
+  <div style="margin-bottom:12px;">
+    <div style="margin-bottom:6px; font-weight:700;">📱 Mobile & Frontend</div>
+    <div style="display:flex; flex-wrap:wrap; gap:8px;">
+      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Saarthi — Smart healthcare vending solution combining React Native, backend APIs, payment workflows, and inventory management.</span>
+      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Sticker Smasher — React Native mobile application exploring modern mobile UI development.</span>
+      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">IceCreamPro</span>
+      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Next.js Dashboard</span>
+    </div>
+  </div>
+
+  <div style="margin-bottom:12px;">
+    <div style="margin-bottom:6px; font-weight:700;">🤖 AI & Career Tools</div>
+    <div style="display:flex; flex-wrap:wrap; gap:8px;">
+      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Resume Analyser AI — AI-assisted resume evaluation and parsing.</span>
+      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">AI Mock Interview</span>
+      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">PrepTracker</span>
+      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Stock Market Forecast — Time-series forecasting and visualization using Python.</span>
+    </div>
+  </div>
+
+  <div style="margin-bottom:12px;">
+    <div style="margin-bottom:6px; font-weight:700;">🌐 Web Applications</div>
+    <div style="display:flex; flex-wrap:wrap; gap:8px;">
+      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Mystery Message — Anonymous messaging platform.</span>
+      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Ignitia 2K25</span>
+      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Personal Portfolio</span>
+      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Interactive Music Web App — Browser-based music streaming application.</span>
+    </div>
+  </div>
+
+  <div style="margin-bottom:0;">
+    <div style="margin-bottom:6px; font-weight:700;">🎮 Learning Projects</div>
+    <div style="display:flex; flex-wrap:wrap; gap:8px;">
+      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Product Table</span>
+      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Pong Game</span>
+      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Snake Game</span>
+      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Tic Tac Toe</span>
+    </div>
+  </div>
+</div>
 
 ## 📊 GitHub Analytics
 
