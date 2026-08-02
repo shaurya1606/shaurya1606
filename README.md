@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="banner-dark.svg" width="100%" alt="Shaurya Srivastava"/>
 
 <p align="center">
@@ -19,42 +18,32 @@ Computer Science Undergraduate • Backend Engineer • AI Systems Builder • O
 ## Connect with Me
 
 <p align="center">
-
-<a href="https://shaurya.letskraack.dev">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/shaurya1606">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/shaurya1606">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/shaurya1606">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/shaurya0616">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
-</a>
-
-
+  <a href="https://shaurya.letskraack.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/shaurya1606">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/shaurya1606">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://leetcode.com/u/shaurya1606">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://codeforces.com/profile/shaurya0616">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=shaurya1606&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/shaurya1606?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/stars/shaurya1606?affiliations=OWNER&style=for-the-badge" />
-
-
 </p>
 
 ## About Me
 
-<table>
+<table align="center" border="1" cellspacing="0" cellpadding="12" width="100%" style="margin: 0 auto; table-layout: fixed; border-collapse: collapse;">
 <tr>
 <td width="35%" valign="middle" align="center">
-
-<img src="lanyard.svg" width="340" alt="Developer Badge" />
+<img src="lanyard.svg" width="320" alt="Developer Badge" />
 
 </td>
 <td width="65%" valign="middle">
@@ -83,10 +72,9 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 
 ## 💻 Technology Stack
 
-<table border="1" cellspacing="0" cellpadding="10" width="100%">
+<table align="center" border="1" cellspacing="0" cellpadding="10" width="100%" style="margin: 0 auto; table-layout: fixed; border-collapse: collapse;">
 <tr>
 <td width="50%" valign="top" align="center">
-
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,kotlin,bash,html,css&perline=9" />
@@ -152,9 +140,9 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 
 ## ⚙️ Engineering Expertise
 
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<table align="center" border="1" cellspacing="0" cellpadding="12" width="100%" style="margin: 0 auto; table-layout: fixed; border-collapse: collapse;">
 <tr>
-<td width="33.33%" valign="top">
+<td width="33.33%" valign="top" align="left" style="padding: 14px;">
 
 ### Backend Engineering
 
@@ -169,7 +157,7 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 - Distributed Systems
 
 </td>
-<td width="33.33%" valign="top">
+<td width="33.33%" valign="top" align="left" style="padding: 14px;">
 
 ### Software Engineering
 
@@ -184,7 +172,7 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 - Agile Development
 
 </td>
-<td width="33.33%" valign="top">
+<td width="33.33%" valign="top" align="left" style="padding: 14px;">
 
 ### Artificial Intelligence
 
@@ -201,7 +189,7 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 </td>
 </tr>
 <tr>
-<td width="33.33%" valign="top">
+<td width="33.33%" valign="top" align="left" style="padding: 14px;">
 
 ### Cloud & Infrastructure
 
@@ -216,7 +204,7 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 - Reverse Proxy
 
 </td>
-<td width="33.33%" valign="top">
+<td width="33.33%" valign="top" align="left" style="padding: 14px;">
 
 ### Developer Practices
 
@@ -232,7 +220,7 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 - Agile Collaboration
 
 </td>
-<td width="33.33%" valign="top">
+<td width="33.33%" valign="top" align="left" style="padding: 14px;">
 
 ### Core Computer Science
 
@@ -253,7 +241,7 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 
 ## 🚀 Featured Projects
 
-<table align="center" border="1" cellspacing="0" cellpadding="12" width="95%" style="margin: 0 auto; table-layout: fixed; border-collapse: collapse;">
+<table align="center" border="1" cellspacing="0" cellpadding="12" width="100%" style="margin: 0 auto; table-layout: fixed; border-collapse: collapse;">
 <tr>
 <td width="50%" valign="top" align="center" style="height: 320px; vertical-align: top; overflow: hidden;">
 
@@ -538,10 +526,10 @@ Python • C++ • Java • Problem Solving
 
 ## 📦 Other Notable Projects
 
-<table>
+<table align="center" border="1" cellspacing="0" cellpadding="10" width="100%" style="margin: 0 auto; table-layout: fixed; border-collapse: collapse;">
 <tr>
 
-<td valign="top">
+<td valign="top" width="25%">
 
 ### 📱 Mobile & Frontend
 
@@ -559,7 +547,7 @@ Python • C++ • Java • Problem Solving
 
 </td>
 
-<td valign="top">
+<td valign="top" width="25%">
 
 ### 🤖 AI & Career
 
@@ -573,11 +561,7 @@ Python • C++ • Java • Problem Solving
 
 </td>
 
-</tr>
-
-<tr>
-
-<td valign="top">
+<td valign="top" width="25%">
 
 ### 🌐 Web Applications
 
@@ -591,7 +575,7 @@ Python • C++ • Java • Problem Solving
 
 </td>
 
-<td valign="top">
+<td valign="top" width="25%">
 
 ### 🎮 Learning Projects
 
@@ -606,18 +590,13 @@ Python • C++ • Java • Problem Solving
 </td>
 
 </tr>
-
 </table>
 
 
 ## 📊 GitHub Analytics
 
-
-
 <div align="center">
-
-<img width="85%" src="https://streak-stats.demolab.com?user=shaurya1606&theme=github-dark-blue&hide_border=true"/>
-
+  <img width="85%" src="https://streak-stats.demolab.com?user=shaurya1606&theme=github-dark-blue&hide_border=true"/>
 </div>
 
 ## 📈 GitHub Summary
@@ -631,21 +610,15 @@ Python • C++ • Java • Problem Solving
 <br>
 
 <div align="center">
-
-<img width="49%" src="profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
-
-<img width="49%" src="profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
-
+  <img width="48%" src="profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+  <img width="48%" src="profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
 </div>
 
 <br>
 
 <div align="center">
-
-<img width="49%" src="profile-summary-card-output/github_dark/3-stats.svg"/>
-
-<img width="49%" src="profile-summary-card-output/github_dark/4-productive-time.svg"/>
-
+  <img width="48%" src="profile-summary-card-output/github_dark/3-stats.svg"/>
+  <img width="48%" src="profile-summary-card-output/github_dark/4-productive-time.svg"/>
 </div>
 
 ## 📈 Contribution Activity
@@ -666,7 +639,7 @@ Python • C++ • Java • Problem Solving
 
 </p>
 
---> 
+-->
 
 ## 📊 Development Metrics
 
@@ -679,15 +652,12 @@ Python • C++ • Java • Problem Solving
 ## 💻 Competitive Programming
 
 <div align="center">
-
-<img src="https://leetcard.jacoblin.cool/shaurya1606?theme=dark&font=Ubuntu&ext=contest" width="49%" />
-
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=shaurya0616&theme=github_dark" width="49%" />
-
-<a href="https://www.codechef.com/users/shaurya1612">
+  <img src="https://leetcard.jacoblin.cool/shaurya1606?theme=dark&font=Ubuntu&ext=contest" width="48%" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=shaurya0616&theme=github_dark" width="48%" />
+  <br>
+  <a href="https://www.codechef.com/users/shaurya1612">
     <img src="https://img.shields.io/badge/CodeChef-shaurya1612-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
+  </a>
 </div>
 
 <br>
