@@ -253,15 +253,9 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 
 ## 🚀 Featured Projects
 
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-
+<table align="center" border="1" cellspacing="0" cellpadding="12" width="95%" style="margin: 0 auto; table-layout: fixed; border-collapse: collapse;">
 <tr>
-
-<td width="50%" valign="top">
-
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-<tr>
-<td valign="top">
+<td width="50%" valign="top" align="center" style="height: 320px; vertical-align: top; overflow: hidden;">
 
 ## QueueCTL
 
@@ -288,16 +282,7 @@ TypeScript • Node.js • SQLite • CLI • Worker Architecture
 [View Repository](https://github.com/shaurya1606/flam-software-intern-project)
 
 </td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%" valign="top">
-
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-<tr>
-<td valign="top">
+<td width="50%" valign="top" align="center" style="height: 320px; vertical-align: top; overflow: hidden;">
 
 ## PerformIQ
 
@@ -325,19 +310,8 @@ Next.js • TypeScript • PostgreSQL • RBAC • Authentication
 
 </td>
 </tr>
-</table>
-
-</td>
-
-</tr>
-
 <tr>
-
-<td width="50%" valign="top">
-
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-<tr>
-<td valign="top">
+<td width="50%" valign="top" align="center" style="height: 320px; vertical-align: top; overflow: hidden;">
 
 ## LetsKraack
 
@@ -364,16 +338,7 @@ Next.js • TypeScript • PostgreSQL • AssemblyAI • Gemini • AWS Polly
 [View Repository](https://github.com/shaurya1606/LetsKraack.Ai)
 
 </td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%" valign="top">
-
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-<tr>
-<td valign="top">
+<td width="50%" valign="top" align="center" style="height: 320px; vertical-align: top; overflow: hidden;">
 
 ## Sarion
 
@@ -401,19 +366,8 @@ Python • YOLO • FastAPI • OpenCV
 
 </td>
 </tr>
-</table>
-
-</td>
-
-</tr>
-
 <tr>
-
-<td width="50%" valign="top">
-
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-<tr>
-<td valign="top">
+<td width="50%" valign="top" align="center" style="height: 320px; vertical-align: top; overflow: hidden;">
 
 ## UPI Java
 
@@ -440,16 +394,7 @@ Java • OOP • Collections
 [View Repository](https://github.com/shaurya1606/UPI-Java)
 
 </td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%" valign="top">
-
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-<tr>
-<td valign="top">
+<td width="50%" valign="top" align="center" style="height: 320px; vertical-align: top; overflow: hidden;">
 
 ## Food Fiesta
 
@@ -477,19 +422,8 @@ View Repository
 
 </td>
 </tr>
-</table>
-
-</td>
-
-</tr>
-
 <tr>
-
-<td width="50%" valign="top">
-
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-<tr>
-<td valign="top">
+<td width="50%" valign="top" align="center" style="height: 320px; vertical-align: top; overflow: hidden;">
 
 ## Authentication & Authorization
 
@@ -516,16 +450,7 @@ TypeScript • React • Node.js • Database
 View Repository
 
 </td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%" valign="top">
-
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-<tr>
-<td valign="top">
+<td width="50%" valign="top" align="center" style="height: 320px; vertical-align: top; overflow: hidden;">
 
 ## Society Management System
 
@@ -553,19 +478,8 @@ TypeScript • React • Node.js • Database
 
 </td>
 </tr>
-</table>
-
-</td>
-
-</tr>
-
 <tr>
-
-<td width="50%" valign="top">
-
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-<tr>
-<td valign="top">
+<td width="50%" valign="top" align="center" style="height: 320px; vertical-align: top; overflow: hidden;">
 
 ## AI-Powered Phishing Detection
 
@@ -592,16 +506,7 @@ Python • Scikit-Learn • NLP • Machine Learning
 [View Repository](https://github.com/shaurya1606/AI-Powered-Phishing-detection-and-Mitigation)
 
 </td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%" valign="top">
-
-<table border="1" cellspacing="0" cellpadding="12" width="100%">
-<tr>
-<td valign="top">
+<td width="50%" valign="top" align="center" style="height: 320px; vertical-align: top; overflow: hidden;">
 
 ## DSA Problems Solution
 
@@ -629,12 +534,6 @@ View Repository
 
 </td>
 </tr>
-</table>
-
-</td>
-
-</tr>
-
 </table>
 
 ## 📦 Other Notable Projects
