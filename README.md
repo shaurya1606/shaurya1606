@@ -75,7 +75,8 @@ I enjoy transforming ideas into production-inspired software by combining clean 
 <table align="center" border="1" cellspacing="0" cellpadding="10" width="100%" style="margin: 0 auto; table-layout: fixed; border-collapse: collapse;">
 <tr>
 <td width="50%" valign="top" align="center">
-### Languages
+
+###  Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,kotlin,bash,html,css&perline=9" />
 
