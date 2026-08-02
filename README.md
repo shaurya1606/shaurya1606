@@ -418,7 +418,7 @@ Java • Backend • Restaurant Management
 
 🔗 Repository
 
-View Repository
+[View Repository](https://github.com/shaurya1606/Food-Fiesta)
 
 </td>
 </tr>
@@ -447,7 +447,7 @@ TypeScript • React • Node.js • Database
 
 🔗 Repository
 
-View Repository
+[View Repository](https://github.com/shaurya1606/Authentication-and-Authorization)
 
 </td>
 <td width="50%" valign="top" align="center" style="height: 320px; vertical-align: top; overflow: hidden;">
@@ -530,7 +530,7 @@ Python • C++ • Java • Problem Solving
 
 🔗 Repository
 
-View Repository
+[View Repository](https://github.com/shaurya1606/DSA-Problems-Solution)
 
 </td>
 </tr>
@@ -538,47 +538,77 @@ View Repository
 
 ## 📦 Other Notable Projects
 
-<div>
-  <div style="margin-bottom:12px;">
-    <div style="margin-bottom:6px; font-weight:700;">📱 Mobile & Frontend</div>
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Saarthi — Smart healthcare vending solution combining React Native, backend APIs, payment workflows, and inventory management.</span>
-      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Sticker Smasher — React Native mobile application exploring modern mobile UI development.</span>
-      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">IceCreamPro</span>
-      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Next.js Dashboard</span>
-    </div>
-  </div>
+<table>
+<tr>
 
-  <div style="margin-bottom:12px;">
-    <div style="margin-bottom:6px; font-weight:700;">🤖 AI & Career Tools</div>
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Resume Analyser AI — AI-assisted resume evaluation and parsing.</span>
-      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">AI Mock Interview</span>
-      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">PrepTracker</span>
-      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Stock Market Forecast — Time-series forecasting and visualization using Python.</span>
-    </div>
-  </div>
+<td valign="top">
 
-  <div style="margin-bottom:12px;">
-    <div style="margin-bottom:6px; font-weight:700;">🌐 Web Applications</div>
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Mystery Message — Anonymous messaging platform.</span>
-      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Ignitia 2K25</span>
-      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Personal Portfolio</span>
-      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Interactive Music Web App — Browser-based music streaming application.</span>
-    </div>
-  </div>
+### 📱 Mobile & Frontend
 
-  <div style="margin-bottom:0;">
-    <div style="margin-bottom:6px; font-weight:700;">🎮 Learning Projects</div>
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Product Table</span>
-      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Pong Game</span>
-      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Snake Game</span>
-      <span style="display:inline-block; padding:6px 10px; border:1px solid #2f81f7; border-radius:999px; background:#0d1117; color:#e6edf3; font-size:13px;">Tic Tac Toe</span>
-    </div>
-  </div>
-</div>
+- 🚑 **Saarthi**
+  <br><sub>Healthcare vending & payments</sub>
+
+- 📱 **Sticker Smasher**
+  <br><sub>Cross-platform React Native app</sub>
+
+- 🍦 **IceCreamPro**
+  <br><sub>Responsive landing page</sub>
+
+- 📊 **Next.js Dashboard**
+  <br><sub>Analytics dashboard demo</sub>
+
+</td>
+
+<td valign="top">
+
+### 🤖 AI & Career
+
+- 📄 **Resume Analyser AI**
+
+- 🎤 **AI Mock Interview**
+
+- 📈 **PrepTracker**
+
+- 📉 **Stock Market Forecast**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### 🌐 Web Applications
+
+- 💬 **Mystery Message**
+
+- 🎉 **Ignitia 2K25**
+
+- 🌍 **Personal Portfolio**
+
+- 🎵 **Interactive Music**
+
+</td>
+
+<td valign="top">
+
+### 🎮 Learning Projects
+
+- 🛒 Product Table
+
+- 🏓 Pong
+
+- 🐍 Snake
+
+- ❌ Tic Tac Toe
+
+</td>
+
+</tr>
+
+</table>
+
 
 ## 📊 GitHub Analytics
 
