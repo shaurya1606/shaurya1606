@@ -650,6 +650,8 @@ Python • C++ • Java • Problem Solving
 
 </div>
 
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/shaurya1606)](https://ghfind.com/u/shaurya1606?ref=badge)
+
 ## 💻 Competitive Programming
 
 <div align="center">
